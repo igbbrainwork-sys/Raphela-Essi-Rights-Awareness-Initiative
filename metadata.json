@@ -1,0 +1,6 @@
+{
+  "name": "Raphela Essi Rights Awareness Initiative",
+  "description": "Official digital platform of Raphela Essi Rights Awareness Initiative - A Nigerian NGO dedicated to human rights education, access to justice, community empowerment, and protection of vulnerable populations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
